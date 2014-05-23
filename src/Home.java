@@ -5,6 +5,8 @@ public class Home {
 		System.out.println("Hello World");
 		
 		System.out.println("Hello");
+		
+		AgeOutput.myAge(26);
 
 	}
 
